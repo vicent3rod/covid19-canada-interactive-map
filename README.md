@@ -13,7 +13,7 @@ $ bokeh serve --show canada_covid19_map.py
 
 ```
 ### Browse the interactive map:
-The map is rendered by bokeh-server at `http://localhost:5006/`
+The map is rendered by bokeh-server at `http://localhost:5006/canada_covid19_map`
 
 ### Captures:
 
