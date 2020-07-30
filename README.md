@@ -1,4 +1,4 @@
-# Covid19 Interactive Map for Provinces/territories of Canada
+# Covid-19 Interactive Map for Provinces/territories of Canada
 
 ### Overview
 Interactive map showing changes (total cases, recovered and deaths) by administrative divisions.
@@ -13,7 +13,7 @@ $ bokeh serve --show canada_covid19_map.py
 
 ```
 ### Browse the interactive map:
-
+The map is rendered by bokeh-server at `http://localhost:5006/`
 
 ### Captures:
 
