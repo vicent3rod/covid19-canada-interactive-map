@@ -1,8 +1,9 @@
 # Covid19 Interactive Map for Provinces/territories of Canada
 
 ### Overview
-Program to compare the performances of matrix multiplications (N by N) in three different ways: 
-* [Shapefile](https://www.arcgis.com/home/item.html?id=dcbcdf86939548af81efbd2d732336db) - Shapefile of the provincial and territorial boundaries of Canada.
+Interactive map showing changes (total cases, recovered and deaths) by administrative divisions.
+* [Covid-19 Data](https://health-infobase.canada.ca/covid-19/?stat=num&measure=total#a2) - Updated data from the Canadian Government.
+* [Shapefile](https://www.arcgis.com/home/item.html?id=dcbcdf86939548af81efbd2d732336db) - Provincial and territorial boundaries of Canada.
 
 
 #### Running the sample:
