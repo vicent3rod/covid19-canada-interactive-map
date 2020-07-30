@@ -1,12 +1,9 @@
-# Covid19 Interactive Map for Provinces and territories of Canada
+# Covid19 Interactive Map for Provinces/territories of Canada
 
 ### Overview
 Program to compare the performances of matrix multiplications (N by N) in three different ways: 
-* Triple do-loop (Traditional Parallel processing).
-* matmul(a,b) function.
-* dgemm routine (INTEL MKL). 
+* [Shapefile](https://www.arcgis.com/home/item.html?id=dcbcdf86939548af81efbd2d732336db) - Shapefile of the provincial and territorial boundaries of Canada.
 
-* [Intel Fortran Compiler](https://software.intel.com/en-us/fortran-compilers) - Builds high-performance applications with Intel processors.
 
 #### Running the sample:
 ```sh
