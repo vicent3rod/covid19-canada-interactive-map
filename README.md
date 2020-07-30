@@ -1,4 +1,4 @@
-# covid19-canada-interactive-map
+# Covid19 Interactive for Provinces and territories of Canada
 
 | Capture 1     | Capture 2     | Capture 3     |
 | ------------- | ------------- | ------------- |
